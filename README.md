@@ -9,3 +9,7 @@ Updates based on master on GitHub before rebase
 This is edited locally and will be a change.
 
 - Another update regarding tags
+
+## Getting started
+
+Add your getting started note here. 
